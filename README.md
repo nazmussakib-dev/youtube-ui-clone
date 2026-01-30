@@ -34,8 +34,6 @@ This project focuses on layout mastery, responsive grid systems, and clean UI st
 ## 📁 Folder Structure
 
 ```
-
-.
 ├── index.html
 ├── Styles/
 │   ├── general.css
